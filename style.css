@@ -115,7 +115,7 @@ input[type=text], input[type=email]{
 input[type=text]:focus, input[type=email]:focus{
   background-color: #fff;
   border-bottom: 2.2px solid #ef3e11;
-    
+   
 }
 
 input[type=text]:placeholder {
